@@ -4,4 +4,4 @@ Aula inicial de C# na Etec Adolpho Berezin, Programação de Computadores I, 202
 
 ---
 
-Ermogenes Palacio. 2021.
+Ermogenes Daniel Palacio. 2021.
